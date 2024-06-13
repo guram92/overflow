@@ -1,0 +1,16 @@
+.d1 {
+    width: 230px;
+    height: 297px;
+    border: 1px solid #CCCCCC;
+    padding-top: 9px;
+    padding-left: 8px;
+    overflow-x: scroll;
+    
+}
+.p1 {
+    font-family: "interfont";
+}
+@font-face {
+    font-family: "interfont";
+    src: url("font/Inter-VariableFont_slnt\,wght.ttf");
+}
